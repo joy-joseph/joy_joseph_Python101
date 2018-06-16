@@ -1,0 +1,4 @@
+#shebang_perl
+#!/usr/bin/env perl
+#shebang_bash
+#!/usr/bin/env bash
